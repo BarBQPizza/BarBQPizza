@@ -35,7 +35,7 @@
   </a>
 
 <a href="#">
-    <img src="svg/dev/languages/C.svg" alt="C" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/csharp.svg" alt="c#" style="vertical-align:top; margin:6px 4px">
   </a>
 
 </P>
